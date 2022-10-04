@@ -193,7 +193,7 @@ $ cd Betty; ./install.sh
 
 * **Mustapha Aliyu Galadima** - [MG-Musty](https://github.com/MG-Musty)
 
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
+* **Mikasa Comfort Asukwo** - [Asukwo-comfort](https://github.com/Asukwo-comfort)
 
 
 ## :mag: License
@@ -203,9 +203,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## :mega: Acknowledgments
 
-* Holberton School (providing guidance)
+* Alx Africa Soft-ware Engineering program (providing guidance)
 * Stack Overflow (help on various memory errors (not leaks))
 
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png">
-</p>
+![image](https://user-images.githubusercontent.com/106968663/193906770-cf66f2cd-810c-453e-8836-fc463dfcec21.png)
+
